@@ -8,5 +8,5 @@ ggplot()+
   theme_bw()+
   theme(
     axis.title = element_text(size=20),
-    axis.text = element_text(size=20)
+    axis.text = element_text(size=20,color='red')
   )
